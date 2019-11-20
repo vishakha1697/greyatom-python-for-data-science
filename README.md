@@ -1,7 +1,4 @@
-The GreyAtom Python for Data Science program covers the essential parts of the Python programming language that helps a learner in his journey as a data scientist. Being a good programmer helps a learner to prepare data better for analysis and allows to quickly deploy models. Following concepts are covered in this program
+Problem Statement
+You have been hired by the University of Data Science to manage their students' records. Your job is to create the student management system for the university. Let's try to build the system using basic Python operations.
 
-- Fundamentals of Python language
-- Object Oriented Programming and other advanced concepts
-- Manipulating matrices using NumPy
-- Data Wrangling with Pandas
-- Visualizing Data using Matplotlib
+Topics Covered:Mathematical operations,List operations,Dictionary operations,String indexing and formatting
